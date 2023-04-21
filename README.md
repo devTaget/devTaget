@@ -9,7 +9,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="https://www.notion.so/cd8a128b63cd4a23a954722c7baff58f"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
- <a href="https://www.notion.so/cd8a128b63cd4a23a954722c7baff58f">노션
 
 
 <br>
