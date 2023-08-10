@@ -7,7 +7,7 @@
 👶 1997.06.12 <br>
 📞 010-4121-9495 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="[https://www.notion.so/cd8a128b63cd4a23a954722c7baff58f](https://www.notion.so/ca092607913548a5bc8b425302efaf72)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="https://www.notion.so/cd8a128b63cd4a23a954722c7baff58f"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
